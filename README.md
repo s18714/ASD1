@@ -12,17 +12,21 @@ Jako wyjście należy podać:
 
 Przykład 1 (uzupełniony o pierwszą linię)
 Dane wejściowe:
+
     3 2
     2 1
     1 0
 Dane wyjściowe:
+
     0 1 2
 
 Przykład 2 (uzupełniony o pierwszą linię)
   Dane wejściowe:
+  
     3 3
     2 2
     1 0
     0 1
   Dane wyjściowe:
+  
     NIE 
